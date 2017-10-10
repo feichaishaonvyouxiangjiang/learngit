@@ -1,6 +1,6 @@
 package pair_programming;
 import java.io.File;
- class Graphviztest {
+public class Graphviztest {
 	/*
 	   public static void main(String[] args)
 	   {

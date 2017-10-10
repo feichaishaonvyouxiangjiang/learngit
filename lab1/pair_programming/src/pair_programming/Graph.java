@@ -1,4 +1,4 @@
- pair_programming;
+package pair_programming;
 
 import java.awt.Image;
 import java.awt.Point;
